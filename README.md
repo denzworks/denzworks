@@ -1,4 +1,4 @@
-# denzworks
+# Deniz
 
 <div align="center">
 
@@ -18,7 +18,7 @@ Specialized in backend development, automation tools, and AI-powered application
 
 ## About Me
 
-I am a software developer focused on building efficient and production-ready software solutions.
+I am a software developer focused on building efficient and production-ready software solutions. In addition to backend development and automation systems, I have experience in digital design, user interfaces, and visual identity creation, allowing me to approach projects from both technical and design perspectives.
 
 My primary interests include:
 
@@ -48,6 +48,10 @@ Experienced in developing backend services, automation systems, and AI-powered a
 ### Backend
 
 `FastAPI` `Flask` `REST APIs` `WebSocket`
+
+### Design & Creative Tools
+
+`Adobe Photoshop` `Adobe Illustrator` `Figma` `UI Design` `Brand Identity`
 
 ### Databases
 
